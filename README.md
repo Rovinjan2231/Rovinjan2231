@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rovinjan2231
-- 👀 I’m interested in software development, data analytics.
+- 👀 I’m interested in software engineering.
 - 🌱 I’m currently learning Computer Science with major in Software Engineering.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
