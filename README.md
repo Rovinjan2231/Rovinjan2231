@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Rovinjan2231
-- 👀 I’m interested in software engineering.
-- 🌱 I’m currently learning Computer Science with major in Software Engineering.
+- 👋 Hi, I’m Rovin
+- 👀 I’m interested in Software Engineering.
+- 🌱 I’m currently enrolled in FEU Institute of Technology taking Bachelors of Science in Computer Science major in Software Engineering.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach https://www.linkedin.com/in/rovinjanmedrano/
 
 <!---
 Rovinjan2231/Rovinjan2231 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
