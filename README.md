@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rovin
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently enrolled in FEU Institute of Technology taking Bachelors of Science in Computer Science major in Software Engineering.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m currently a Back End Developer in Collabera Digital ...
 - 📫 How to reach https://www.linkedin.com/in/rovinjanmedrano/
 
 <!---
